@@ -2,7 +2,7 @@
 
 This is a text-based role-playing game (RPG) written in Python, where you play as a martial arts warrior in a traditional Chinese wuxia setting. Explore locations, engage in battles, and grow stronger by leveling up through experience.
 
-## 🎮 How to Play
+## How to Play
 
 1. **Launch the game**:
    ```bash
@@ -27,7 +27,7 @@ This is a text-based role-playing game (RPG) written in Python, where you play a
 
 6. **Gain EXP and level up** to increase your stats.
 
-## 📁 File Structure
+## File Structure
 
 - `main.py` – Game loop and main menu.
 - `character.py` – Player and enemy classes.
@@ -35,7 +35,7 @@ This is a text-based role-playing game (RPG) written in Python, where you play a
 - `map.py` – Map and location exploration.
 - `utils.py` – Helper functions for CLI formatting.
 
-## 🧠 Features
+## Features
 
 - 5 martial arts schools to choose from
 - Turn-based combat system
@@ -46,8 +46,3 @@ This is a text-based role-playing game (RPG) written in Python, where you play a
 
 - Python 3.x
 
-No external libraries are needed. Simply run the game with Python.
-
----
-
-Created for COMP9001 Python Project Challenge.
